@@ -9,6 +9,8 @@
 ### Etch-a-Sketch
 Graphics project with keypress drawing controls with the ability to save images.
 
+![Running App](https://github.com/Sadayo126/programmingportfolio/blob/main/src/etchASketch/etch-a-sketch1.png)
+
 
 ## Term 2
 ### Calculator
