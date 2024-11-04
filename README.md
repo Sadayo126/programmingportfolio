@@ -11,6 +11,8 @@ Graphics project with keypress drawing controls with the ability to save images.
 
 ![Running App](https://github.com/Sadayo126/programmingportfolio/blob/main/src/etchASketch/etch-a-sketch1.png)
 
+[Source Code](https://github.com/Sadayo126/programmingportfolio/blob/main/src/etchASketch/etchASketch.pde)
+
 
 ## Term 2
 ### Calculator
