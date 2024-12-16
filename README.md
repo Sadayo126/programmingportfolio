@@ -13,6 +13,21 @@ Graphics project with keypress drawing controls with the ability to save images.
 
 [Source Code](https://github.com/Sadayo126/programmingportfolio/blob/main/src/etchASketch/etchASketch.pde)
 
+### Timeline
+History of computers with hover capabilities
+
+![Running App](https://github.com/user-attachments/assets/7cc44cc1-f7a6-4db3-a01f-168536322149)
+
+[Source Code](https://github.com/Sadayo126/programmingportfolio/blob/main/src/Timeline/Timeline.pde)
+
+### Grading App
+Quick grader that does numbers and percentages
+
+![Running App](https://github.com/user-attachments/assets/0c5a65ba-0c91-472f-9f31-8afb918a480e)
+
+[Source Code](https://github.com/Sadayo126/programmingportfolio/blob/main/src/gradingApp/gradingApp.pde)
+
+
 
 ## Term 2
 ### Calculator
@@ -28,12 +43,5 @@ OOP solution for a collision based space themed game
 ![Running App](https://github.com/user-attachments/assets/0081f224-46fd-4c7b-8ba1-6be914c41962)
 
 [Source Code](https://github.com/Sadayo126/programmingportfolio/tree/main/src/SpaceGame)
-
-### Timeline
-History of computers with hover capabilities
-
-![Running App](https://github.com/user-attachments/assets/7cc44cc1-f7a6-4db3-a01f-168536322149)
-
-[Source Code](https://github.com/Sadayo126/programmingportfolio/blob/main/src/Timeline/Timeline.pde)
 
 
