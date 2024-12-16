@@ -1,4 +1,5 @@
-# Sadayo Mabey's Programming Portfolio 2024-25
+# Sadayo Mabey's Programming 1 Portfolio 2024-25
+* Email is - sadayo.mabey@gmail.com
 * Projected graduation 2028
 * Interests in video games, music & art
 * Goal - Get a good understanding of coding
