@@ -23,9 +23,17 @@ Object oriented graphical calculator with custom buttons and UI.
 [Source Code](https://github.com/Sadayo126/programmingportfolio/blob/main/src/Calculator/Calculator.pde)
 
 ### SpaceGame
-Description: OOP solution for a collision based space themed game
+OOP solution for a collision based space themed game
 
 ![Running App](https://github.com/user-attachments/assets/0081f224-46fd-4c7b-8ba1-6be914c41962)
 
 [Source Code](https://github.com/Sadayo126/programmingportfolio/tree/main/src/SpaceGame)
+
+### Timeline
+History of computers with hover capabilities
+
+![Running App](https://github.com/user-attachments/assets/7cc44cc1-f7a6-4db3-a01f-168536322149)
+
+[Source Code](https://github.com/Sadayo126/programmingportfolio/blob/main/src/Timeline/Timeline.pde)
+
 
