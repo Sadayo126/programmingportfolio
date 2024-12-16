@@ -21,7 +21,7 @@ History of computers with hover capabilities
 [Source Code](https://github.com/Sadayo126/programmingportfolio/blob/main/src/Timeline/Timeline.pde)
 
 ### Grading App
-Quick grader that does numbers and percentages
+Quick grader that converts percentages to letter grades
 
 ![Running App](https://github.com/user-attachments/assets/0c5a65ba-0c91-472f-9f31-8afb918a480e)
 
